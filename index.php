@@ -4,14 +4,14 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<head><title>CI/CD Exercise</title></head>
-<h1>Hello World</h1>
-<h2>It's Nice to See You Again</h2>
+<head><title>Exten Excellent</title></head>
+<h1>Hi Brian</h1>
+<h2>this is a little proof of concept</h2>
 
-<h3>NOT SO NICE!!!!</h3>
+<h3>check it out</h3>
 
-Is this ever going to.....?<br>
-you don't have to give up
+<br>
+
 <br>
 
 
