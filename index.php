@@ -11,7 +11,7 @@
 <h3>NOT SO NICE!!!!</h3>
 
 Is this ever going to.....?<br>
-I hope it does
+you don't have to give up
 <br>
 
 
